@@ -47,7 +47,7 @@ Buggy_Breakout/SourceArt/**/*.tga
 
 # Binary Files
 Buggy_Breakout/Binaries/*
-Buggy_Breakout/Plugins/*/Binaries/*
+#Buggy_Breakout/Plugins/*/Binaries/*
 
 # Builds
 Buggy_Breakout/Build/*
@@ -68,7 +68,7 @@ Buggy_Breakout/Saved/*
 
 # Compiled source files for the engine to use
 Buggy_Breakout/Intermediate/*
-Buggy_Breakout/Plugins/*/Intermediate/*
+#Buggy_Breakout/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Buggy_Breakout/DerivedDataCache/*
