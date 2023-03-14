@@ -5,7 +5,7 @@ Buggy_Breakout/.vs/
 Buggy_Breakout/*.slo
 Buggy_Breakout/*.lo
 Buggy_Breakout/*.o
-Buggy_Breakout/*.obj
+#Buggy_Breakout/*.obj
 
 # Precompiled Headers
 Buggy_Breakout/*.gch
