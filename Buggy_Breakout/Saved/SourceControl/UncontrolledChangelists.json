@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pojoj/Documents/CIS 5680/Buggy-Breakout/Buggy_Breakout/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/pojoj/Documents/CIS 5680/Buggy-Breakout/Buggy_Breakout/Content/CandyModels/Candies/Candies_OBJ.uasset",
+				"C:/Users/pojoj/Documents/CIS 5680/Buggy-Breakout/Buggy_Breakout/Content/CandyModels/CandyCouch/source/CandyCouch.uasset"
+			]
+		}
+	]
+}
