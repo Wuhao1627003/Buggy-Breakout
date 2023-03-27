@@ -1,0 +1,2 @@
+Spud is an original character created by and belonging to Nadine Adnane. 
+Spud (the 3D model and character in general) may not be modified, reproduced, or used by anyone/any entity other than Nadine Adnane, for any purpose (commercial or otherwise).
