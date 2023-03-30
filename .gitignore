@@ -80,3 +80,5 @@ Buggy_Breakout/Config/*
 *.bin
 *.ush
 *.json
+Buggy_Breakout/Plugins/VRM4U/*
+Buggy_Breakout/Executable/*
